@@ -11,11 +11,13 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 | Amazon | Software Development Engineer | Seattle, WA; New York, NY; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
 | Capital One | Technology Development Program | McLean, Virginia; New York, New York; San Francisco, California; Richmond, Virginia; | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
+| Netapp | Software Engineer | Raleigh area | via linkedin | 
 
 ## Rejected
 | Company | Position | applied Location | Link |
 | --- | --- | --- | --- |
-| Netapp | Software Engineer | Raleigh | via linkedin | 
+| IXL Learning | Software Engineer | Raleigh area | via linkedin | 
+
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
