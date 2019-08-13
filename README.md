@@ -3,8 +3,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 
 ## Contributing
 1. Fork the repo on your own bhave
-1. Edit README.md
-    1. Keep the list alphabetical by company in the open application session
+1. Edit README.md's open application section
 ## Applied
 | Company | Position | Applied Location | Link |
 | --- | --- | --- | --- |
