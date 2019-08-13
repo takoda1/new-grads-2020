@@ -1,12 +1,12 @@
 # new-grads-2020
-A collection of new grad roles for 2020.
+A collection of new grad roles for 2020. Forked from cmackenzie
 
 ## Contributing
 1. Fork the repo on your own bhave
 1. Edit README.md
     1. Keep the list alphabetical by company in the open application session
 ## Applied
-| Company | Position | applied Location | Link |
+| Company | Position | Applied Location | Link |
 | --- | --- | --- | --- |
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 | Amazon | Software Development Engineer | Seattle, WA; New York, NY; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
