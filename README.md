@@ -13,6 +13,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Capital One | Technology Development Program | McLean, Virginia; New York, New York; San Francisco, California; Richmond, Virginia; | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Netapp | Software Engineer | Raleigh area | via linkedin | 
 | American Express | Campus 2020 Technology Software Engineer | New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
+| Apple | Software Engineer (Siri Rotational Program) | Cupertino, CA | https://jobs.apple.com/en-us/details/200078270/siri-software-engineer-siri-rotational-program?team=MLAI |
 
 ## Rejected
 | Company | Position | applied Location | Link |
@@ -27,7 +28,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
-| Apple | Software Engineer (Siri Rotational Program) | Cupertino, CA | https://jobs.apple.com/en-us/details/200078270/siri-software-engineer-siri-rotational-program?team=MLAI |
 | Bolt | Software Engineer | Toronto, Ontario, Canada; San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-toronto/b73a1a03-0547-4753-97b4-192affe9a1de/ https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
 | Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
