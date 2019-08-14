@@ -11,6 +11,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Amazon | Software Development Engineer | Seattle, WA; New York, NY; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
 | American Express | Campus 2020 Technology Software Engineer | New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
 | Apple | Software Engineer (Siri Rotational Program) | Cupertino, CA | https://jobs.apple.com/en-us/details/200078270/siri-software-engineer-siri-rotational-program?team=MLAI |
+| Applied Intuition | Software Engineer | Sunnyvale, CA | https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAONASDXZTBdvp |
 | Bolt | Software Engineer | San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
 | Camelot Consulting, Inc. | Programmer | Charlotte, NC | via handshake|
 | Capital One | Technology Development Program | McLean, Virginia; New York, New York; San Francisco, California; Richmond, Virginia; | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
@@ -19,6 +20,9 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
 | Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 | Ezoic | Software Engineer | Carlsbad, Ca | via handshake |
+| Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
+| Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
+| Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
 | Matroid | Full Stack Engineer | PALO ALTO, CA | via handshake|
 | NCS | Research Scientist/Engineer | North Region, Singapore | via handshake |
 | Netapp | Software Engineer | Raleigh area | via linkedin | 
@@ -38,13 +42,9 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
-| Applied Intuition | Software Engineer | Sunnyvale, CA | https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAONASDXZTBdvp |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
-| Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
-| Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
 | Google | Engineering Residentcy| Ca |https://www.google.com/about/careers/students/engres.html|
 | Google | Software Engineer, University Graduate | ~ | ~ | 
-| Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
 | Hewlett Packard Enterprise | Platform Engineer | Ft. Collins, Colorado | https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Platform-Engineer-Graduate-Program-Colorado/52471296 |
 | Hudson River Trading | Algo Developer, Software Engineer | New York, Austin, Chicago | http://www.hudson-trading.com/careers/job/?gh_jid=82675 (NY only), http://www.hudson-trading.com/careers/job/?gh_jid=86641 |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
