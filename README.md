@@ -39,8 +39,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
 | Applied Intuition | Software Engineer | Sunnyvale, CA | https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAONASDXZTBdvp |
-| Dell | Data Storage Software Engineer | Seattle, WA | https://jobs.dell.com/job/seattle/data-storage-software-engineer-new-graduate-seattle-wa/375/9079995 |
-| Essential Products | Software Engineer | Palo Alto, CA | https://jobs.lever.co/essential/6ded894a-304b-4cdd-a81c-2b6011dce8b4 |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
@@ -63,3 +61,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
 | Yelp | Software Engineer, New Grad | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
+
+## Dont think it fits my resume
+| Dell | Data Storage Software Engineer | Seattle, WA | https://jobs.dell.com/job/seattle/data-storage-software-engineer-new-graduate-seattle-wa/375/9079995 |
+| Essential Products | Software Engineer | Palo Alto, CA | https://jobs.lever.co/essential/6ded894a-304b-4cdd-a81c-2b6011dce8b4 |
