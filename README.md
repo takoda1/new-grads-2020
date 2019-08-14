@@ -9,12 +9,14 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | --- | --- | --- | --- |
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 | Amazon | Software Development Engineer | Seattle, WA; New York, NY; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
-| Apple | Software Engineer (Siri Rotational Program) | Cupertino, CA | https://jobs.apple.com/en-us/details/200078270/siri-software-engineer-siri-rotational-program?team=MLAI |
-| Bolt | Software Engineer | Toronto, Ontario, Canada; San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-toronto/b73a1a03-0547-4753-97b4-192affe9a1de/ https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
-| Capital One | Technology Development Program | McLean, Virginia; New York, New York; San Francisco, California; Richmond, Virginia; | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
-| Netapp | Software Engineer | Raleigh area | via linkedin | 
 | American Express | Campus 2020 Technology Software Engineer | New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
-
+| Apple | Software Engineer (Siri Rotational Program) | Cupertino, CA | https://jobs.apple.com/en-us/details/200078270/siri-software-engineer-siri-rotational-program?team=MLAI |
+| Bolt | Software Engineer | San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
+| Capital One | Technology Development Program | McLean, Virginia; New York, New York; San Francisco, California; Richmond, Virginia; | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
+| Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
+| Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
+| Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
+| Netapp | Software Engineer | Raleigh area | via linkedin | 
 
 ## Rejected
 | Company | Position | applied Location | Link |
@@ -29,10 +31,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
-| Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
-| Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
 | Dell | Data Storage Software Engineer | Seattle, WA | https://jobs.dell.com/job/seattle/data-storage-software-engineer-new-graduate-seattle-wa/375/9079995 |
-| Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
 | Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 | Essential Products | Software Engineer | Palo Alto, CA | https://jobs.lever.co/essential/6ded894a-304b-4cdd-a81c-2b6011dce8b4 |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
