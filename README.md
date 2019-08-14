@@ -17,6 +17,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
 | Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
 | Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
+| Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 | Ezoic | Software Engineer | Carlsbad, Ca | via handshake |
 | Matroid | Full Stack Engineer | PALO ALTO, CA | via handshake|
 | NCS | Research Scientist/Engineer | North Region, Singapore | via handshake |
@@ -38,7 +39,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
 | Dell | Data Storage Software Engineer | Seattle, WA | https://jobs.dell.com/job/seattle/data-storage-software-engineer-new-graduate-seattle-wa/375/9079995 |
-| Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 | Essential Products | Software Engineer | Palo Alto, CA | https://jobs.lever.co/essential/6ded894a-304b-4cdd-a81c-2b6011dce8b4 |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
