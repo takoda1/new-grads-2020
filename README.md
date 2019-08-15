@@ -34,6 +34,8 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Yelp | Software Engineer, New Grad, backend and fullstack | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
 | Twenty Billion Neurons | AI Engineer Intern | Berlin, Germany | via handshake |
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship "Can't verify email after submitting"|
+| Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
+
 
 ## Rejected
 | Company | Position | applied Location | Link |
@@ -56,7 +58,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
-| Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
 
 ## Dont think it fits my resume
 | Company | Position | Location | Link |
