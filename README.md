@@ -25,6 +25,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
 | Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
 | Matroid | Full Stack Engineer | PALO ALTO, CA | via handshake|
+| Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | NCS | Research Scientist/Engineer | North Region, Singapore | via handshake |
 | Netapp | Software Engineer | Raleigh area | via linkedin | 
 | Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
@@ -48,7 +49,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Hewlett Packard Enterprise | Platform Engineer | Ft. Collins, Colorado | https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Platform-Engineer-Graduate-Program-Colorado/52471296 |
 | Hudson River Trading | Algo Developer, Software Engineer | New York, Austin, Chicago | http://www.hudson-trading.com/careers/job/?gh_jid=82675 (NY only), http://www.hudson-trading.com/careers/job/?gh_jid=86641 |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
-| Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Nutanix | MTS Developer - New Grad (System) | San Jose, CA | https://nutanix.eightfold.ai/careers/job?domain=nutanix.com&pid=84009&pid=84009&domain=nutanix.com |
 | Oculus(Facebook) | Software Engineer, University Grad | Menlo Park, CA | https://www.facebook.com/careers/jobs/458201948352945/ |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
