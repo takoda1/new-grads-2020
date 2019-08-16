@@ -36,6 +36,10 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship "Can't verify email after submitting"|
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
 
+## Interviewed
+| Company | Position | applied Location | Link |
+| --- | --- | --- | --- |
+| IXL Learning | Software Engineer | Raleigh area | via linkedin |
 
 ## Rejected
 | Company | Position | applied Location | Link |
