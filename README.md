@@ -59,10 +59,24 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
+| Adobe ||||
+| airbnb ||||
+| Bank of America ||||
+| Bloomberg ||||
+| Epic games ||||
+| epic system||||
+| Fidelity | |||
 | Google | Engineering Residentcy| Ca |https://www.google.com/about/careers/students/engres.html|
 | Google | Software Engineer, University Graduate | ~ | ~ | 
+| Lyft ||||
+| Netflex ||||
+| Qualcomm ||||
+| Redhat ||||
+| Riot ||||
 | Salesforce | ~ | ~ | ~ |
-
+| SAS ||||
+| Two Sigma ||||
+| Uber ||||
 
 ## Dont think it fits my resume
 | Company | Position | Location | Link |
