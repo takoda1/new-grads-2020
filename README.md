@@ -68,6 +68,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Fidelity | |||
 | Google | Engineering Residentcy| Ca |https://www.google.com/about/careers/students/engres.html|
 | Google | Software Engineer, University Graduate | ~ | ~ | 
+| LinkedIn ||||
 | Lyft ||||
 | Netflex ||||
 | Qualcomm ||||
