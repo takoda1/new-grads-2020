@@ -45,11 +45,14 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Company | Position | applied Location | Link |
 | --- | --- | --- | --- |
 | IXL Learning | Software Engineer | Raleigh area | via linkedin |
+| Yelp | Software Engineer, New Grad, backend and fullstack | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
 
 ## Rejected
 | Company | Position | applied Location | Link |
 | --- | --- | --- | --- |
-| IXL Learning | Software Engineer | Raleigh area | via linkedin | 
+| IXL Learning | Software Engineer | Raleigh area | via linkedin |
+| Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
+| Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 
 ## Offers
 | Company | Position | applied Location | Link |
