@@ -7,6 +7,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 ## Applied
 | Company | Position | Applied Location | Link |
 | --- | --- | --- | --- |
+|Aerotek| Javasoftware engineer| RTP | via linkedin |
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 | Amazon | Software Development Engineer | Seattle, WA; New York, NY; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
 | American Express | Campus 2020 Technology Software Engineer | New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
