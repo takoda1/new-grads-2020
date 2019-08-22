@@ -86,7 +86,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Salesforce | ~ | ~ | ~ |
 | SAS ||||
 | Two Sigma ||||
-| Uber ||||
 
 ## Dont think it fits my resume
 | Company | Position | Location | Link |
@@ -98,3 +97,5 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Nutanix | MTS Developer - New Grad (System) | San Jose, CA | https://nutanix.eightfold.ai/careers/job?domain=nutanix.com&pid=84009&pid=84009&domain=nutanix.com |
 | Robinhood | Android Engineer, Backend Engineer, Infrastructure Engineer, iOS Engineer, Security Engineer, Software Engineer (Data), Web Engineer | Menlo Park, CA, US | https://careers.robinhood.com/openings |
 | Oculus(Facebook) | Software Engineer, University Grad | Menlo Park, CA | https://www.facebook.com/careers/jobs/458201948352945/ |
+| Uber ||| no new grad role |
+
