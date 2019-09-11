@@ -60,6 +60,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 ## Rejected
 | Company | Position | applied Location | Link |
 | --- | --- | --- | --- |
+| General Motor |  Early Career - TRACK - Software/Algorithm Engineer  | all locations | on their website |
 | Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
 | IXL Learning | Software Engineer | Raleigh area | via linkedin |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
@@ -87,6 +88,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | LinkedIn ||||
 | Lyft ||||
 | Netflex ||||
+| Metlife |||||
 | Qualcomm ||||
 | Redhat ||||
 | Riot ||||
