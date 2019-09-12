@@ -14,8 +14,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Google | Software Engineer, University Graduate | all locations | on google website | 
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
-| Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
-| Paradigm Technologies | Software Developer | Chicago, IN| via handshake|
 | Yelp | Software Engineer, New Grad, backend and fullstack | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
@@ -48,6 +46,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | airbnb ||||
 | Bank of America ||||
 | Bloomberg ||||
+| Epic ||||
 | Epic games ||||
 | epic system||||
 | Fidelity | |||
