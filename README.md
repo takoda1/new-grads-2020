@@ -14,9 +14,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Google | Software Engineer, University Graduate | all locations | on google website | 
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
-| NCS | Research Scientist/Engineer | North Region, Singapore | via handshake |
-| Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
-| Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
 | Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
 | Paradigm Technologies | Software Developer | Chicago, IN| via handshake|
 | Yelp | Software Engineer, New Grad, backend and fullstack | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
